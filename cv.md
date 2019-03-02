@@ -11,7 +11,7 @@ Purposeful, executive, hardworking, initiative, active life position, good commu
 ### Skills
 HTML5, CSS 3, Git, the basics JS and PHP.
 
-###Code examples
+### Code examples  
 HTML
 ```html
  <blockquote>
@@ -66,7 +66,7 @@ Result:
 ### Experience
 Codeacademy - tasks & projects.
 
-###Education
+### Education
  * 1998 - __Minsk State College of Radio Engineering__   
  *Microelectronics*   
  * 2001 - __Belarusian State University of Informatics and Radioelectronics__    
@@ -76,8 +76,7 @@ Codeacademy - tasks & projects.
 * 2013 - __Courses "Web Design"__  
 _Training center "BelHard"_
 
-###English level
+### English level
 
 **B1 _(Intermediate)_**  
 Frequent trips abroad and communication with the local population in English.
-##
