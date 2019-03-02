@@ -14,10 +14,10 @@ HTML5, CSS 3, Git, the basics JS and PHP.
 ###Code examples
 HTML
 ```html
- &lt;blockquote&gt;
-   &lt;p&gt; Fashion is not something that exists in dresses only. Fashion is in the sky, in the street, fashion has to do with ideas, the way we live, what is happening. &lt;/p&gt;
-   &lt;footer&gt; —  &lt;cite&gt; Coco Chanel &lt;/cite&gt; &lt;/footer&gt;
- &lt;/blockquote&gt;
+ <blockquote>
+   <p> Fashion is not something that exists in dresses only. Fashion is in the sky, in the street, fashion has to do with ideas, the way we live, what is happening. </p>
+   <footer> —  <cite> Coco Chanel </cite> </footer>
+ </blockquote>
 ```
 CSS
 ```css
