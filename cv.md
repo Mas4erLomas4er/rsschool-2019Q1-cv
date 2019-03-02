@@ -60,8 +60,7 @@ blockquote cite {
 ```
 
 Result:  
-
-![](https://lh4.googleusercontent.com/n3j6KNqhiHxNylSee2g8zGScly08wQtbOytcJsj1RVu2qiJbz1AbEaWN4qVD3k-9DDHDFjBSONv4-4FUMu2d=w1366-h625)
+![](https://cloclo41.datacloudmail.ru/view/Screenshot_28.png?etag=94C631070C9070C133EAC1E92637680A24DD20CB&x-email=i9997117%40gmail.com)
 
 ### Experience
 Codeacademy - tasks & projects.
