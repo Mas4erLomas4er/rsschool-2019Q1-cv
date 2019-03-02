@@ -6,7 +6,8 @@ _Contacts_:
 * *Phone*: **+375-44-788-06-80** (Belarus)
 
 ### Summary
-Purposeful, executive, hardworking, initiative, active life position, good communication skills. High sense of responsibility. Looking for a job, not a salary.
+Purposeful, executive, hardworking, initiative, active life position, good communication skills. High sense of responsibility.  
+ __Looking for a job, not a salary.__
 
 ### Skills
 HTML5, CSS 3, Git, the basics JS and PHP.
