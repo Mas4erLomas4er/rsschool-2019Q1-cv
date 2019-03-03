@@ -10,7 +10,7 @@ Purposeful, executive, hardworking, initiative, active life position, good commu
  __Looking for a job, not a salary.__
 
 ### Skills
-HTML5, CSS 3, Git, the basics JS and PHP.
+HTML5, CSS3, Git, the basics JS and PHP.
 
 ### Code examples  
 HTML
