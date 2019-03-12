@@ -6,6 +6,7 @@ body {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     font-family: "Comic Sans MS";
+    background-image: url("../img/white-waves.png");
 }
 
 h1 {
@@ -18,7 +19,7 @@ h1 {
     max-width: 1024px;
     margin: 0 auto;
     padding: 10px;
-    background-color: #d0ffff;
+    background-color: rgba(189, 232, 232, 0.61);
 }
 
 section {
