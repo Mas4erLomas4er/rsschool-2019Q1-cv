@@ -24,21 +24,21 @@ h1 {
 
 section {
     margin: 20px 0;
-    padding: 10px;
+    padding: 20px;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
     border-radius: 15px;
     background-color: #b4dfd9;
     color: #454545;
-    -webkit-transition: .5s ease;
-    -moz-transition: .5s ease;
-    -ms-transition: .5s ease;
-    -o-transition: .5s ease;
-    transition: .5s ease;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    -ms-transition: .3s ease;
+    -o-transition: .3s ease;
+    transition: .3s ease;
 }
 
 section:hover {
-    background-color: #a2cdc7;
+    background-color: #aad5cf;
 }
 
 .bold {
@@ -82,17 +82,19 @@ a {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    background: #a8a8a8;
+    background: transparent;
     padding: 10px;
     -webkit-transition: .3s ease;
     -moz-transition: .3s ease;
     -ms-transition: .3s ease;
     -o-transition: .3s ease;
     transition: .3s ease;
+    border: 2px solid #454545;
 
 }
 
 a:hover {
-    background: #888888;
+    background: #b0b0b0;
     color: #eeeeee;
+    border: 2px solid #eeeeee;
 }
