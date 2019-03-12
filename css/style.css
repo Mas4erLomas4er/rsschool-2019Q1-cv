@@ -1,0 +1,100 @@
+@import "http://fonts.fontstorage.com/import/comicrelief.css";
+body {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "Comic Sans MS";
+    background-image: url("../img/white-waves.png");
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid #c0c0c0;
+}
+
+.wrap {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgba(189, 232, 232, 0.61);
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background-color: #b4dfd9;
+    color: #454545;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    -ms-transition: .3s ease;
+    -o-transition: .3s ease;
+    transition: .3s ease;
+}
+
+section:hover {
+    background-color: #aad5cf;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+ul.contacts {
+    margin-left: 20px;
+}
+
+li, p {
+    margin: 10px;
+}
+
+h2 {
+    color: #000000;
+}
+
+h4 {
+    margin: 10px 0;
+}
+
+.personal-inf {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    max-height: 132px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    margin: 10px;
+    display: inline-block;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background: transparent;
+    padding: 10px;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    -ms-transition: .3s ease;
+    -o-transition: .3s ease;
+    transition: .3s ease;
+    border: 2px solid #454545;
+
+}
+
+a:hover {
+    background: #b0b0b0;
+    color: #eeeeee;
+    border: 2px solid #eeeeee;
+}
